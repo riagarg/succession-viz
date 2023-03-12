@@ -1,5 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import SeasonWinsScrollama from './components/season-wins.js';
+import SuccessionWins from './components/SuccessionWins';
+import SuccessionLosses from './components/Losses';
+import SeasonsHistogram from './components/SeasonsHistogram';
+
 
 function App() {
   return (
@@ -18,6 +23,10 @@ function App() {
           Learn React
         </a>
       </header>
+      <SeasonWinsScrollama/>
+      <SuccessionWins/>
+      <SuccessionLosses/>
+      <SeasonsHistogram/>
     </div>
   );
 }
