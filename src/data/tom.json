@@ -1,0 +1,176 @@
+[
+    {
+        "episode": 101,
+        "character": "tom",
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 102,
+        "character": "tom",
+        "win": 1,
+        "loss": 0
+    },
+    {
+        "episode": 103,
+        "character": "tom",
+        "win": 2,
+        "loss": 0
+    },
+    {
+        "episode": 104,
+        "character": "tom",
+        "win": 2,
+        "loss": 2
+    },
+    {
+        "episode": 105,
+        "character": "tom",
+        "win": 2,
+        "loss": 2
+    },
+    {
+        "episode": 106,
+        "character": "tom",
+        "win": 3,
+        "loss": 2
+    },
+    {
+        "episode": 107,
+        "character": "tom",
+        "win": 3,
+        "loss": 2
+    },
+    {
+        "episode": 108,
+        "character": "tom",
+        "win": 3,
+        "loss": 5
+    },
+    {
+        "episode": 109,
+        "character": "tom",
+        "win": 4,
+        "loss": 8
+    },
+    {
+        "episode": 110,
+        "character": "tom",
+        "win": 5,
+        "loss": 9
+    },
+    {
+        "episode": 201,
+        "character": "tom",
+        "win": 6,
+        "loss": 9
+    },
+    {
+        "episode": 202,
+        "character": "tom",
+        "win": 6,
+        "loss": 13
+    },
+    {
+        "episode": 203,
+        "character": "tom",
+        "win": 6,
+        "loss": 16
+    },
+    {
+        "episode": 204,
+        "character": "tom",
+        "win": 6,
+        "loss": 19
+    },
+    {
+        "episode": 205,
+        "character": "tom",
+        "win": 6,
+        "loss": 20
+    },
+    {
+        "episode": 206,
+        "character": "tom",
+        "win": 6,
+        "loss": 22
+    },
+    {
+        "episode": 207,
+        "character": "tom",
+        "win": 6,
+        "loss": 24
+    },
+    {
+        "episode": 208,
+        "character": "tom",
+        "win": 6,
+        "loss": 24
+    },
+    {
+        "episode": 209,
+        "character": "tom",
+        "win": 6,
+        "loss": 28
+    },
+    {
+        "episode": 210,
+        "character": "tom",
+        "win": 6,
+        "loss": 30
+    },
+    {
+        "episode": 301,
+        "character": "tom",
+        "win": 6,
+        "loss": 30
+    },
+    {
+        "episode": 302,
+        "character": "tom",
+        "win": 6,
+        "loss": 30
+    },
+    {
+        "episode": 303,
+        "character": "tom",
+        "win": 6,
+        "loss": 32
+    },
+    {
+        "episode": 304,
+        "character": "tom",
+        "win": 6,
+        "loss": 33
+    },
+    {
+        "episode": 305,
+        "character": "tom",
+        "win": 6,
+        "loss": 34
+    },
+    {
+        "episode": 306,
+        "character": "tom",
+        "win": 6,
+        "loss": 35
+    },
+    {
+        "episode": 307,
+        "character": "tom",
+        "win": 7,
+        "loss": 35
+    },
+    {
+        "episode": 308,
+        "character": "tom",
+        "win": 7,
+        "loss": 36
+    },
+    {
+        "episode": 309,
+        "character": "tom",
+        "win": 8,
+        "loss": 36
+    }
+]

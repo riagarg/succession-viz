@@ -1,0 +1,176 @@
+[
+    {
+        "episode": 101,
+        "character": "ken",
+        "win": 0,
+        "loss": 3
+    },
+    {
+        "episode": 102,
+        "character": "ken",
+        "win": 1,
+        "loss": 5
+    },
+    {
+        "episode": 103,
+        "character": "ken",
+        "win": 2,
+        "loss": 8
+    },
+    {
+        "episode": 104,
+        "character": "ken",
+        "win": 2,
+        "loss": 13
+    },
+    {
+        "episode": 105,
+        "character": "ken",
+        "win": 3,
+        "loss": 15
+    },
+    {
+        "episode": 106,
+        "character": "ken",
+        "win": 4,
+        "loss": 17
+    },
+    {
+        "episode": 107,
+        "character": "ken",
+        "win": 4,
+        "loss": 20
+    },
+    {
+        "episode": 108,
+        "character": "ken",
+        "win": 4,
+        "loss": 21
+    },
+    {
+        "episode": 109,
+        "character": "ken",
+        "win": 4,
+        "loss": 22
+    },
+    {
+        "episode": 110,
+        "character": "ken",
+        "win": 6,
+        "loss": 25
+    },
+    {
+        "episode": 201,
+        "character": "ken",
+        "win": 6,
+        "loss": 27
+    },
+    {
+        "episode": 202,
+        "character": "ken",
+        "win": 8,
+        "loss": 29
+    },
+    {
+        "episode": 203,
+        "character": "ken",
+        "win": 8,
+        "loss": 29
+    },
+    {
+        "episode": 204,
+        "character": "ken",
+        "win": 10,
+        "loss": 31
+    },
+    {
+        "episode": 205,
+        "character": "ken",
+        "win": 10,
+        "loss": 31
+    },
+    {
+        "episode": 206,
+        "character": "ken",
+        "win": 10,
+        "loss": 31
+    },
+    {
+        "episode": 207,
+        "character": "ken",
+        "win": 11,
+        "loss": 32
+    },
+    {
+        "episode": 208,
+        "character": "ken",
+        "win": 11,
+        "loss": 33
+    },
+    {
+        "episode": 209,
+        "character": "ken",
+        "win": 12,
+        "loss": 34
+    },
+    {
+        "episode": 210,
+        "character": "ken",
+        "win": 13,
+        "loss": 36
+    },
+    {
+        "episode": 301,
+        "character": "ken",
+        "win": 15,
+        "loss": 37
+    },
+    {
+        "episode": 302,
+        "character": "ken",
+        "win": 16,
+        "loss": 38
+    },
+    {
+        "episode": 303,
+        "character": "ken",
+        "win": 17,
+        "loss": 41
+    },
+    {
+        "episode": 304,
+        "character": "ken",
+        "win": 17,
+        "loss": 44
+    },
+    {
+        "episode": 305,
+        "character": "ken",
+        "win": 19,
+        "loss": 47
+    },
+    {
+        "episode": 306,
+        "character": "ken",
+        "win": 19,
+        "loss": 52
+    },
+    {
+        "episode": 307,
+        "character": "ken",
+        "win": 20,
+        "loss": 58
+    },
+    {
+        "episode": 308,
+        "character": "ken",
+        "win": 21,
+        "loss": 60
+    },
+    {
+        "episode": 309,
+        "character": "ken",
+        "win": 22,
+        "loss": 63
+    }
+]

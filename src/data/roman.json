@@ -1,0 +1,176 @@
+[
+    {
+        "episode": 101,
+        "character": "roman",
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 102,
+        "character": "roman",
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 103,
+        "character": "roman",
+        "win": 0,
+        "loss": 1
+    },
+    {
+        "episode": 104,
+        "character": "roman",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 105,
+        "character": "roman",
+        "win": 2,
+        "loss": 5
+    },
+    {
+        "episode": 106,
+        "character": "roman",
+        "win": 3,
+        "loss": 6
+    },
+    {
+        "episode": 107,
+        "character": "roman",
+        "win": 4,
+        "loss": 6
+    },
+    {
+        "episode": 108,
+        "character": "roman",
+        "win": 4,
+        "loss": 6
+    },
+    {
+        "episode": 109,
+        "character": "roman",
+        "win": 6,
+        "loss": 6
+    },
+    {
+        "episode": 110,
+        "character": "roman",
+        "win": 7,
+        "loss": 6
+    },
+    {
+        "episode": 201,
+        "character": "roman",
+        "win": 8,
+        "loss": 7
+    },
+    {
+        "episode": 202,
+        "character": "roman",
+        "win": 9,
+        "loss": 7
+    },
+    {
+        "episode": 203,
+        "character": "roman",
+        "win": 9,
+        "loss": 8
+    },
+    {
+        "episode": 204,
+        "character": "roman",
+        "win": 10,
+        "loss": 8
+    },
+    {
+        "episode": 205,
+        "character": "roman",
+        "win": 10,
+        "loss": 8
+    },
+    {
+        "episode": 206,
+        "character": "roman",
+        "win": 11,
+        "loss": 8
+    },
+    {
+        "episode": 207,
+        "character": "roman",
+        "win": 12,
+        "loss": 8
+    },
+    {
+        "episode": 208,
+        "character": "roman",
+        "win": 13,
+        "loss": 10
+    },
+    {
+        "episode": 209,
+        "character": "roman",
+        "win": 13,
+        "loss": 11
+    },
+    {
+        "episode": 210,
+        "character": "roman",
+        "win": 14,
+        "loss": 12
+    },
+    {
+        "episode": 301,
+        "character": "roman",
+        "win": 16,
+        "loss": 13
+    },
+    {
+        "episode": 302,
+        "character": "roman",
+        "win": 16,
+        "loss": 14
+    },
+    {
+        "episode": 303,
+        "character": "roman",
+        "win": 16,
+        "loss": 14
+    },
+    {
+        "episode": 304,
+        "character": "roman",
+        "win": 17,
+        "loss": 14
+    },
+    {
+        "episode": 305,
+        "character": "roman",
+        "win": 18,
+        "loss": 15
+    },
+    {
+        "episode": 306,
+        "character": "roman",
+        "win": 20,
+        "loss": 15
+    },
+    {
+        "episode": 307,
+        "character": "roman",
+        "win": 22,
+        "loss": 15
+    },
+    {
+        "episode": 308,
+        "character": "roman",
+        "win": 24,
+        "loss": 17
+    },
+    {
+        "episode": 309,
+        "character": "roman",
+        "win": 25,
+        "loss": 19
+    }
+]

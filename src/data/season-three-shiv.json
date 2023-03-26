@@ -43,5 +43,10 @@
         "episode": 9, 
         "win": 5,
         "loss": 13
+    },
+    {
+        "episode": 10, 
+        "win": 5,
+        "loss": 13
     }
 ]

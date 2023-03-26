@@ -2,28 +2,39 @@ import React, { Component } from 'react';
 import styled from 'styled-components';
 
 const SectionWrapper = styled.div`
-  padding: 5%;
+  padding: 2%;
+
 `
 const SectionTitle = styled.h2`
-	font-weight: 700;
+	font-weight: 400;
+	text-align: left;
+	padding-bottom: 12px;
 `
 const SectionDescription = styled.div`
 	width: 100%;
 	font-size: 1.2rem;
+	text-align: left;
 `
+const StyleBar = styled.div`
+  width: 50px;
+  height: 7px;
+  background-color: #710404;    
 
-export default class TextSection extends Component {
-	render() {
+  `
+
+const TextSection = ({title, description} ) => {
+
 		return (
 			<SectionWrapper>
-        {this.props.title && 
+        {title && 
 				<SectionTitle>
-          {this.props.title}
+          {title}
         </SectionTitle>}
+		<StyleBar/>
         <SectionDescription>
-        {this.props.description}
+        {description}
         </SectionDescription>
 			</SectionWrapper>
-		)
-	}
+		);
 }
+export default TextSection

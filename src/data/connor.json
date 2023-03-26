@@ -1,0 +1,176 @@
+[
+    {
+        "episode": 101,
+        "character": "connor",
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 102,
+        "character": "connor",
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 103,
+        "character": "connor",
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 104,
+        "character": "connor",
+        "win": 1,
+        "loss": 2
+    },
+    {
+        "episode": 105,
+        "character": "connor",
+        "win": 1,
+        "loss": 3
+    },
+    {
+        "episode": 106,
+        "character": "connor",
+        "win": 1,
+        "loss": 3
+    },
+    {
+        "episode": 107,
+        "character": "connor",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 108,
+        "character": "connor",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 109,
+        "character": "connor",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 110,
+        "character": "connor",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 201,
+        "character": "connor",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 202,
+        "character": "connor",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 203,
+        "character": "connor",
+        "win": 3,
+        "loss": 3
+    },
+    {
+        "episode": 204,
+        "character": "connor",
+        "win": 4,
+        "loss": 4
+    },
+    {
+        "episode": 205,
+        "character": "connor",
+        "win": 4,
+        "loss": 4
+    },
+    {
+        "episode": 206,
+        "character": "connor",
+        "win": 4,
+        "loss": 4
+    },
+    {
+        "episode": 207,
+        "character": "connor",
+        "win": 4,
+        "loss": 4
+    },
+    {
+        "episode": 208,
+        "character": "connor",
+        "win": 4,
+        "loss": 5
+    },
+    {
+        "episode": 209,
+        "character": "connor",
+        "win": 5,
+        "loss": 5
+    },
+    {
+        "episode": 210,
+        "character": "connor",
+        "win": 5,
+        "loss": 9
+    },
+    {
+        "episode": 301,
+        "character": "connor",
+        "win": 6,
+        "loss": 9
+    },
+    {
+        "episode": 302,
+        "character": "connor",
+        "win": 6,
+        "loss": 9
+    },
+    {
+        "episode": 303,
+        "character": "connor",
+        "win": 6,
+        "loss": 9
+    },
+    {
+        "episode": 304,
+        "character": "connor",
+        "win": 6,
+        "loss": 9
+    },
+    {
+        "episode": 305,
+        "character": "connor",
+        "win": 7,
+        "loss": 9
+    },
+    {
+        "episode": 306,
+        "character": "connor",
+        "win": 7,
+        "loss": 10
+    },
+    {
+        "episode": 307,
+        "character": "connor",
+        "win": 7,
+        "loss": 10
+    },
+    {
+        "episode": 308,
+        "character": "connor",
+        "win": 7,
+        "loss": 10
+    },
+    {
+        "episode": 309,
+        "character": "connor",
+        "win": 8,
+        "loss": 10
+    }
+]

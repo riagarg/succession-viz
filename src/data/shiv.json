@@ -1,0 +1,176 @@
+[
+    {
+        "episode": 1,
+        "character": "shiv",
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 2,
+        "character": "shiv",
+        "win": 1,
+        "loss": 0
+    },
+    {
+        "episode": 3,
+        "character": "shiv",
+        "win": 1,
+        "loss": 1
+    },
+    {
+        "episode": 4,
+        "character": "shiv",
+        "win": 1,
+        "loss": 2
+    },
+    {
+        "episode": 5,
+        "character": "shiv",
+        "win": 1,
+        "loss": 2
+    },
+    {
+        "episode": 6,
+        "character": "shiv",
+        "win": 2,
+        "loss": 3
+    },
+    {
+        "episode": 7,
+        "character": "shiv",
+        "win": 3,
+        "loss": 3
+    },
+    {
+        "episode": 8,
+        "character": "shiv",
+        "win": 4,
+        "loss": 3
+    },
+    {
+        "episode": 9,
+        "character": "shiv",
+        "win": 5,
+        "loss": 5
+    },
+    {
+        "episode": 10,
+        "character": "shiv",
+        "win": 5,
+        "loss": 5
+    },
+    {
+        "episode": 201,
+        "character": "shiv",
+        "win": 6,
+        "loss": 5
+    },
+    {
+        "episode": 202,
+        "character": "shiv",
+        "win": 7,
+        "loss": 6
+    },
+    {
+        "episode": 203,
+        "character": "shiv",
+        "win": 8,
+        "loss": 8
+    },
+    {
+        "episode": 204,
+        "character": "shiv",
+        "win": 8,
+        "loss": 10
+    },
+    {
+        "episode": 205,
+        "character": "shiv",
+        "win": 8,
+        "loss": 12
+    },
+    {
+        "episode": 206,
+        "character": "shiv",
+        "win": 10,
+        "loss": 14
+    },
+    {
+        "episode": 207,
+        "character": "shiv",
+        "win": 10,
+        "loss": 17
+    },
+    {
+        "episode": 208,
+        "character": "shiv",
+        "win": 12,
+        "loss": 17
+    },
+    {
+        "episode": 209,
+        "character": "shiv",
+        "win": 13,
+        "loss": 17
+    },
+    {
+        "episode": 210,
+        "character": "shiv",
+        "win": 13,
+        "loss": 18
+    },
+    {
+        "episode": 301,
+        "character": "shiv",
+        "win": 14,
+        "loss": 20
+    },
+    {
+        "episode": 302,
+        "character": "shiv",
+        "win": 15,
+        "loss": 22
+    },
+    {
+        "episode": 303,
+        "character": "shiv",
+        "win": 16,
+        "loss": 24
+    },
+    {
+        "episode": 304,
+        "character": "shiv",
+        "win": 16,
+        "loss": 24
+    },
+    {
+        "episode": 305,
+        "character": "shiv",
+        "win": 18,
+        "loss": 25
+    },
+    {
+        "episode": 306,
+        "character": "shiv",
+        "win": 18,
+        "loss": 28
+    },
+    {
+        "episode": 307,
+        "character": "shiv",
+        "win": 18,
+        "loss": 29
+    },
+    {
+        "episode": 308,
+        "character": "shiv",
+        "win": 18,
+        "loss": 29
+    },
+    {
+        "episode": 309,
+        "character": "shiv",
+        "win": 18,
+        "loss": 31
+    }
+]

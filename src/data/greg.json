@@ -1,0 +1,176 @@
+[
+    {
+        "episode": 101,
+        "character": "greg",
+        "win": 1,
+        "loss": 1
+    },
+    {
+        "episode": 102,
+        "character": "greg",
+        "win": 1,
+        "loss": 3
+    },
+    {
+        "episode": 103,
+        "character": "greg",
+        "win": 1,
+        "loss": 4
+    },
+    {
+        "episode": 104,
+        "character": "greg",
+        "win": 2,
+        "loss": 5
+    },
+    {
+        "episode": 105,
+        "character": "greg",
+        "win": 2,
+        "loss": 7
+    },
+    {
+        "episode": 106,
+        "character": "greg",
+        "win": 3,
+        "loss": 7
+    },
+    {
+        "episode": 107,
+        "character": "greg",
+        "win": 3,
+        "loss": 7
+    },
+    {
+        "episode": 108,
+        "character": "greg",
+        "win": 3,
+        "loss": 8
+    },
+    {
+        "episode": 109,
+        "character": "greg",
+        "win": 3,
+        "loss": 8
+    },
+    {
+        "episode": 110,
+        "character": "greg",
+        "win": 3,
+        "loss": 8
+    },
+    {
+        "episode": 201,
+        "character": "greg",
+        "win": 3,
+        "loss": 8
+    },
+    {
+        "episode": 202,
+        "character": "greg",
+        "win": 5,
+        "loss": 8
+    },
+    {
+        "episode": 203,
+        "character": "greg",
+        "win": 5,
+        "loss": 10
+    },
+    {
+        "episode": 204,
+        "character": "greg",
+        "win": 6,
+        "loss": 11
+    },
+    {
+        "episode": 205,
+        "character": "greg",
+        "win": 6,
+        "loss": 11
+    },
+    {
+        "episode": 206,
+        "character": "greg",
+        "win": 6,
+        "loss": 11
+    },
+    {
+        "episode": 207,
+        "character": "greg",
+        "win": 7,
+        "loss": 12
+    },
+    {
+        "episode": 208,
+        "character": "greg",
+        "win": 7,
+        "loss": 13
+    },
+    {
+        "episode": 209,
+        "character": "greg",
+        "win": 7,
+        "loss": 14
+    },
+    {
+        "episode": 210,
+        "character": "greg",
+        "win": 7,
+        "loss": 14
+    },
+    {
+        "episode": 301,
+        "character": "greg",
+        "win": 7,
+        "loss": 14
+    },
+    {
+        "episode": 302,
+        "character": "greg",
+        "win": 8,
+        "loss": 16
+    },
+    {
+        "episode": 303,
+        "character": "greg",
+        "win": 9,
+        "loss": 18
+    },
+    {
+        "episode": 304,
+        "character": "greg",
+        "win": 10,
+        "loss": 19
+    },
+    {
+        "episode": 305,
+        "character": "greg",
+        "win": 10,
+        "loss": 21
+    },
+    {
+        "episode": 306,
+        "character": "greg",
+        "win": 11,
+        "loss": 21
+    },
+    {
+        "episode": 307,
+        "character": "greg",
+        "win": 12,
+        "loss": 22
+    },
+    {
+        "episode": 308,
+        "character": "greg",
+        "win": 12,
+        "loss": 22
+    },
+    {
+        "episode": 309,
+        "character": "greg",
+        "win": 14,
+        "loss": 22
+    }
+]

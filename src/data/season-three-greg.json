@@ -1,0 +1,52 @@
+[
+    {
+        "episode": 1, 
+        "win": 0,
+        "loss": 0
+    },
+    {
+        "episode": 2, 
+        "win": 1,
+        "loss": 2
+    },
+    {
+        "episode": 3, 
+        "win": 2,
+        "loss": 4
+    },
+    {
+        "episode": 4, 
+        "win": 3,
+        "loss": 5
+    },
+    {
+        "episode": 5, 
+        "win": 3,
+        "loss": 7
+    },
+    {
+        "episode": 6,
+        "win": 4,
+        "loss": 7
+    },
+    {
+        "episode": 7, 
+        "win": 5,
+        "loss": 8
+    },
+    {
+        "episode": 8, 
+        "win": 5,
+        "loss": 8
+    },
+    {
+        "episode": 9, 
+        "win": 7,
+        "loss": 8
+    },
+    {
+        "episode": 10, 
+        "win": 7,
+        "loss": 8
+    }
+]

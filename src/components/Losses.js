@@ -1,73 +1,52 @@
 import React from 'react';
 import { 
-  VictoryBar, 
+  VictoryTooltip, 
   VictoryChart, 
   VictoryAxis,
   VictoryTheme,
-  VictoryTooltip,
+  VictoryVoronoiContainer,
   VictoryLine
 } from 'victory';
 import styled from 'styled-components';
 
 
-const data_roman = require('../data/season-one-roman.json');
-const data_shiv = require('../data/season-one-shiv.json');
-const data_ken = require('../data/season-one-ken.json');
-const data_tom = require('../data/season-one-tom.json');
-const data_connor = require('../data/season-one-connor.json');
-const data_greg = require('../data/season-one-greg.json');
+const color_map = {
+  "tom": "#586580", 
+  "greg": "#2C3246",
+  "connor": "#414C3B",
+  "shiv":"#FDF5E6",
+  "roman": "#DED5CD",
+  "ken": "#A19491"
+}
+
+const Losses = () => {
 
 
-const Container = styled.div`
-    padding: 400px;
-`
+  let data_roman = require('../data/roman.json');
+  let data_shiv = require('../data/shiv.json');
+  let data_ken = require('../data/ken.json');
+  let data_tom = require('../data/tom.json');
+  let data_connor = require('../data/connor.json');
+  let data_greg = require('../data/greg.json');
 
-export default class SuccessionLosses extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      displayInfo: props.displayInfo,
-      animate: props.animate,
-      animating: false
-    }
-  }
-
-  componentDidUpdate(prevProps) {
-    if (!this.state.animating && this.props !== prevProps) {
-      this.setState({
-        displayInfo: this.props.displayInfo,
-        showRegression: this.props.showRegression,
-        animating: true
-      });
-      setTimeout(() => this.setState({animating: false}), this.state.animate);
-    }
-  }
-
-  getBakerDisplayInfo(baker, displayInfo) {
-    return displayInfo[baker];
-  }
-
-  // getDataWithDisplayInfo(displayInfo) {
-  //   return data.map((datum) => {
-  //     return {
-  //       ...datum,
-  //       "risk": displayInfo[datum.baker] ? datum.risk : 0
-  //     };
-  //   });
-  // }
-
-
-  render() {
     return (
-      <Container>
+      <>
         <VictoryChart
-          title= {"Roman Season 1 losss"}
-          theme={VictoryTheme.material}
+          title= {" Season 1 Losses"}
           domainPadding={1}
+          containerComponent={
+            <VictoryVoronoiContainer
+            labels={({ datum }) => `${datum.character}`}
+            labelComponent={
+                <VictoryTooltip dy={-7} constrainToVisibleArea />
+              }
+            />
+          }
         >
+        
           <VictoryAxis
             label="Episode"
-            tickFormat={(x) => (`${x}`)}
+            tickFormat={(x) => (`${data_roman[x]["episode"]}`)}
             style={{
               axisLabel: {
                 fontSize: 15,
@@ -84,7 +63,7 @@ export default class SuccessionLosses extends React.Component {
           <VictoryAxis
             label= "Loss Count"
             dependentAxis
-            domain={[0, 25]}
+            domain={[0, 60]}
             tickFormat={(t)=> t}
             style= {{
               axisLabel: {
@@ -96,100 +75,92 @@ export default class SuccessionLosses extends React.Component {
               }
             }}
           />
-
             <VictoryLine
+              labelComponent={<VictoryTooltip/>}
               data={data_ken}
-              x= "episode"
+              
               y="loss"
-              scale={{x: "episode", y: "loss"}}
+              scale={{ y: "loss"}}
               standalone={false}
-              domain= {{y :[0,25]}}
+              domain= {{y :[0,10]}}
               interpolation="natural"
               style={{
-                data: { stroke: "purple" },
+                data: { stroke:  color_map["ken"]},
                 parent: { border: "1px solid #ccc" }
               }}
             />
             <VictoryLine
+              labelComponent={<VictoryTooltip/>}
               data={data_roman}
-              x= "episode"
+              
               y="loss"
-              scale={{x: "episode", y: "loss"}}
+              scale={{ y: "loss"}}
               standalone={false}
-              domain= {{y :[0,25]}}
+              domain= {{y :[0,10]}}
               interpolation="natural"
               style={{
-                data: { stroke: "orange" },
+                data: { stroke: color_map["roman"] },
                 parent: { border: "1px solid #ccc" }
               }}
             />
             <VictoryLine
+              labelComponent={<VictoryTooltip/>}
               data={data_shiv}
-              x= "episode"
+              
               y="loss"
-              scale={{x: "episode", y: "loss"}}
+              scale={{ y: "loss"}}
               standalone={false}
-              domain= {{y :[0,25]}}
+              domain= {{y :[0,10]}}
               interpolation="natural"
               style={{
-                data: { stroke: "blue" },
+                data: { stroke: color_map["shiv"] },
                 parent: { border: "1px solid #ccc" }
               }}
             />
             <VictoryLine
+              labelComponent={<VictoryTooltip/>}
               data={data_tom}
-              x= "episode"
+              
               y="loss"
-              scale={{x: "episode", y: "loss"}}
+              scale={{ y: "loss"}}
               standalone={false}
-              domain= {{y :[0,25]}}
+              domain= {{y :[0,10]}}
               interpolation="natural"
               style={{
-                data: { stroke: "pink" },
+                data: { stroke: color_map["tom"] },
                 parent: { border: "1px solid #ccc" }
               }}
             />
             <VictoryLine
+              labelComponent={<VictoryTooltip/>}
               data={data_greg}
-              x= "episode"
+              
               y="loss"
-              scale={{x: "episode", y: "loss"}}
+              scale={{ y: "loss"}}
               standalone={false}
-              domain= {{y :[0,25]}}
+              domain= {{y :[0,10]}}
               interpolation="natural"
               style={{
-                data: { stroke: "red" },
+                data: { stroke: color_map["greg"] },
                 parent: { border: "1px solid #ccc" }
               }}
             />
             <VictoryLine
               data={data_connor}
-              x= "episode"
+              
               y="loss"
-              scale={{x: "episode", y: "loss"}}
+              scale={{ y: "loss"}}
               standalone={false}
-              domain= {{y :[0,25]}}
+              domain= {{y :[0,10]}}
               interpolation="natural"
               style={{
-                data: { stroke: "green" },
+                data: { stroke: color_map["connor"] },
                 parent: { border: "1px solid #ccc" }
               }}
             />
-            {/* <VictoryLine
-              data={data}
-              x= "episode"
-              y="loss"
-              scale={{x: "episode", y: "loss"}}
-              standalone={false}
-              domain= {{y :[0,8]}}
-              interpolation="natural"
-              style={{
-                data: { stroke: "red" },
-                parent: { border: "1px solid #ccc" }
-              }}
-            /> */}
         </VictoryChart>
-        </Container>
-    )
-  }
+        </>
+    );
 }
+  export default Losses;
+// }
