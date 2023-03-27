@@ -75,7 +75,7 @@ const contentMap = {
   description={
     <div>
       <p>
-        Use the slider to the right to compare Romans wins and losses through the three seasons
+        Use the <b>episode slider</b> to the right to compare Romans wins and losses through the three seasons
       </p>
     </div>
   } 
