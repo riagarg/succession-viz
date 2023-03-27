@@ -9,8 +9,9 @@ import RomanScrollama from './components/RomanScrollama.js'
 import KendallScrollama from './components/KendallScrollama.js'
 import WideDisplayScrollama from './components/WideDisplayScrollama';
 import FinalThoughts from './components/FinalThoughts';
-import WinLossDisplay from './components/WinLossDisplay'
-import ToggleDisplay from './components/ToggleDisplay'
+import WinLossDisplay from './components/WinLossDisplay';
+import ToggleDisplay from './components/ToggleDisplay';
+import Footer from './components/Footer'
 
 const Title = styled.div`
   width: 100vw
@@ -38,6 +39,7 @@ function App() {
       <WideDisplayScrollama/>
       <FinalThoughts/>
       <ToggleDisplay/>
+      <Footer/>
     </div>
   );
 }

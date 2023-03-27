@@ -26,8 +26,8 @@ const FinalThoughts = ( ) => {
         </SectionTitle>
         <Text>
         <p>
-         Succession to be a totally unpredictable show. And when I’m wrong I’m not at all mad,
-         because I know the show is always right. While watching the first season, 
+         Succession to me is totally unpredictable, I'm always wrong when I guess what is going to happen. And when I’m wrong I’m not at all mad,
+         because the show is always right. While watching the first season, 
          I was sure Shiv was going to be the next CEO. I saw her as smart, strong, 
          and a modern leader. Quickly, however, Shiv’s compassionate girboss facade 
          falls apart and she is revealed to be the most selfish and incompetent of her 
@@ -37,7 +37,8 @@ const FinalThoughts = ( ) => {
         <p>
         Every week I’m outwitted by Succession, and I truly love it. But, I thought 
         that maybe with my skills with data and sheer dedication to the show, I could 
-        figure out the central conflict through the powers of visualization. 
+        figure out the central conflict through the powers of visualization. My skills have led me to conclude that Roman is the only answer,
+        however I can't wait to see how season 4 surprises me. 
         </p>
         </Text>
         </Container>

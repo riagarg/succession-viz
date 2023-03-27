@@ -75,7 +75,7 @@ const contentMap = {
   description={
     <div>
       <p>
-      oijojpjpoinks he’s kinda a “sicko”, which seems to be his big problem<span>&#8212;</span>he has a brand issue. 
+        Use the slider to the right to compare Romans wins and losses through the three seasons
       </p>
     </div>
   } 

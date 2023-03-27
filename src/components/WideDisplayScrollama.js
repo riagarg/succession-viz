@@ -62,7 +62,11 @@ const contentMap = {
         <p>
             Before starting work on this visualization, I honestly thought that <b>Tom</b> would win.         </p>
         <p>
-        During the third season finale, Tom and Greg seem to be on top. Tom sides with Logan at a critical moment when all the kids choose not to. Siding with Logan so far has been the move<span>&#8212;</span>he doesn’t lose. But Tom truly lacks of wins. The show rarely, if ever depicts successes he has at his job. Other than promotions Shiv gets him, we only see him flailing in testimonies and stressed about jail. Along with that, his personal life with Shiv is clearly a disaster.
+        During the third season finale, Tom and Greg seem to be on top. Tom sides with Logan at a critical moment ,when all the kids
+         choose not to. Siding with Logan so far has been the move<span>&#8212;</span>he doesn’t lose. 
+         But despite this, Tom has so few wins. The show rarely, if ever depicts him successful at work.
+        Other than promotions Shiv gets him, we only see him flailing in testimonies and stressed about jail. 
+        Along with that, his personal life with Shiv is clearly a disaster.
         </p>
         <p>
         </p>
@@ -83,8 +87,8 @@ const contentMap = {
   description={
     <div>
       <p>
-        What truly shocked me while collecting this data is how few wins there were from actual successes in the business. 
-        Either their personal lives make for better TV or all of them are pretty incompotent. 
+        What shocked me while collecting this data is how few wins there were from actual successes in the business. 
+        Either their Jessie Armstrong thinks their personal lives make for better TV or all of them are pretty incompotent. 
       </p>
       <p>
         Either way, I'd just like to know if Tom has made any contribution to the business over the last three seasons...
