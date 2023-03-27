@@ -50,7 +50,7 @@ const contentMap = {
     description={
       <div>
         <p>
-        Lets look at the characters together<span>&#8212;</span>all of their wins and losses. Its easy to note that Roman is the only one whose wins out number his losses, making him the easiest choice to bet on.        
+        Lets look at the characters together<span>&#8212;</span>all of their wins and losses. Its easy to note that <b>Roman</b> is the only one whose <b>wins out number his losses</b>, making him the easiest choice to bet on.        
         </p>
 
       </div>

@@ -63,10 +63,10 @@ const dataCollection = (
     I watched all three season and noted any time a character experienced a win or loss. Things I looked for included:
    </p>
     <ul> 
-        <li>Something that positively or negatively affected their personal brand or personal life</li>
-        <li> Opportunities within the company</li>
-        <li>Pleasing Logan</li>
-        <li>Display of business acumen (it's a double win if Logan shows he's proud) </li>
+        <li><b>Something that positively or negatively affected their personal brand or personal life</b></li>
+        <li> <b>Opportunities within the company</b></li>
+        <li><b>Pleasing Logan</b></li>
+        <li><b>Display of business acumen (it's a double win if Logan shows he's proud)</b> </li>
     </ul>
   </div>
 );
