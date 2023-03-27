@@ -11,6 +11,7 @@ import WideDisplayScrollama from './components/WideDisplayScrollama';
 import FinalThoughts from './components/FinalThoughts';
 import WinLossDisplay from './components/WinLossDisplay';
 import ToggleDisplay from './components/ToggleDisplay';
+import IndividualsDisplay from './components/IndividualsDisplay'
 import Footer from './components/Footer'
 
 const Title = styled.div`
@@ -39,6 +40,7 @@ function App() {
       <WideDisplayScrollama/>
       <FinalThoughts/>
       <ToggleDisplay/>
+      <IndividualsDisplay/>
       <Footer/>
     </div>
   );

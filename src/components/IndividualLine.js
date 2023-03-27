@@ -37,7 +37,7 @@ const IndividualLine = ({character, step}) => {
           domainPadding={1}
           containerComponent={
             <VictoryVoronoiContainer
-            labels={({ datum }) => ` ${datum.episode}`}
+            labels={({ datum }) => "win" in datum ? `ep: ${datum.episode}, win: ${datum.win}, loss: ${datum.loss}` : null }
             labelComponent={
                 <VictoryTooltip dy={-7} constrainToVisibleArea />
               }

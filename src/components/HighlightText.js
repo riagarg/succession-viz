@@ -4,16 +4,7 @@ import styled from 'styled-components';
 const SectionWrapper = styled.div`
 
 `
-// const SectionTitle = styled.h2`
-// 	font-weight: 400;
-// 	text-align: left;
-// 	padding-bottom: 12px;
-// `
-// const SectionDescription = styled.div`
-// 	width: 100%;
-// 	font-size: 1.2rem;
-// 	text-align: left;
-// `
+
 const Container = styled.div`
     width: 100% ;
     height: 150px;
