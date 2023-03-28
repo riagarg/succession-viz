@@ -54,10 +54,12 @@ const contentMap = {
       <div>
         <p>
           Out of all the kids, and whether or not it be for uncouth reasons, Roman listens to higher ups. He follows Gerri's advice 
-          to go to management training and ends up doing really well. Over the three seasons, he gains exposure to the business.
+          to go to management training and ends up doing really well. Over the three seasons, he gains exposure to the business
+          and proves himself to be a solid contender for the role.
         </p>
         <p>
-          More than that, he proves his killer instincts through picking Menken and closing deals with Mattson. 
+          More than that, he <b>proves his business instincts</b> through picking Menken for the presidential nomination and closing 
+          deals with tech pioneer, Mattson. 
         </p>
       </div>
     } 

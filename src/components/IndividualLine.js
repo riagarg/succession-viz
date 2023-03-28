@@ -278,6 +278,25 @@ const IndividualLine = ({character, step}) => {
                 }
               />
             }
+              {step==5 && character == "Greg" &&
+              <VictoryScatter
+                data={[{ x: 1, y: data[1]['loss'] }]}
+                animate={{
+                  onEnter: { duration: 1000 },
+                  onExit: { duration: 1000 }
+                }}          
+                labels={() => ["Shiv takes his last $20"] }
+                labelComponent={
+                  <VictoryLabel
+                    backgroundStyle={{ fill: "pink" }}
+                    backgroundPadding={3}
+                    style={{
+                      fontSize: 10
+                  }}
+                  />
+                }
+              />
+            }
               {step==5 && character == "Ken" &&
               <VictoryScatter
                 data={[{ x: 24, y: data[24]['loss'] }]}

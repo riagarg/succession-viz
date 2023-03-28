@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 const Container = styled.div`
-    adding-top: 10px;
     background-color: #DED5CD;
     padding: 3rem 0;
     box-shadow: 0 0 20px 20px #DED5CD;
@@ -9,7 +8,7 @@ const Container = styled.div`
 
   `
 const Text = styled.div`
-    margin: 2rem 30rem 1rem;
+    margin: 2rem 25rem 1rem;
     line-height: 1.8;
 `
 const SectionTitle = styled.h2`
@@ -33,10 +32,12 @@ const FinalThoughts = ( ) => {
          but in hindsight makes total sense with the wave of lean-in feminism the show aligns her with.
         </p>
         <p>
-        Every week I’m outwitted by Succession, and I truly love it. But, I thought 
+        Every week I’m outwitted by Succession, and I love it. But, I thought 
         that maybe with my skills with data and sheer dedication to the show, I could 
-        figure out the central conflict through the powers of visualization. My skills have led me to conclude that <b>Roman is the only answer</b>,
-        however, this method of wins and losses seem to be how the kids view their position. This might be 
+        figure out this perpetual question of who is going to succeed, through the powers of visualization. 
+        My skills have led me to conclude that <b>Roman is the only answer</b>. He has the skills, instinct, 
+        and proves himself to the business and Logan more often than anyone else. 
+        However, this method of wins and losses seem to be how the kids view their position and might be 
         a naiive way to do any sort of analysis. Many people think the show is setting up Greg, with is humble roots,
         up to be the victor and I totally think this is a possibility. Regardless, I'm just excited to see how 
         season 4 will continue to shock and surprise me!

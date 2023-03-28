@@ -29,12 +29,14 @@ const Okay = styled.span`
 const showStructure = (
   <div>
     <p> 
-    Succession is an HBO drama about a family that owns a giant American media 
-    conglomerate called Waystar Royco. The show’s central conflict hinges on 
-    Logan’s decision on who will succeed him as the next CEO. 
+    The HBO drama <i>Succession</i> follows a family who owns a giant American media 
+    conglomerate called Waystar Royco. Right now, Logan Roy, the family's patriarch leads
+    Waystar as CEO, succesful due to his killer instinct and willingness to put the business first.
+    His kids, however, see him as aging out of the role, and all want to be considered to be next in line.
     </p>
-    <p> 
-    The obvious contenders are his children Shiv, Roman, and Ken, but 
+    <p>
+      The show hinges on this decision<span>&#8212;</span><b>who will succeed Logan</b>.
+      The obvious contenders are his children Shiv, Roman, and Ken, but 
     there are a few other options Logan considers over the course of the show as well. 
     </p>
   </div>
@@ -43,11 +45,11 @@ const episodeStructure = (
   <div>
     <p> 
     Watching Succession often feels like watching  game of chess. 
-    Each character has these complex plays with each action being a move -- putting them 
+    Each character has these complex plays with each action being a move<span>&#8212;</span>putting them 
     a little closer or a little further from the top job. 
     </p>
     <p> 
-    So we made it to the final season - it premieres in a few days. And Jesse Armstrong promises to <a target="_blank" href="https://www.newyorker.com/culture/the-new-yorker-interview/the-end-of-succession-is-near"> name a successor</a>.
+    So we made it to the final season. And Jesse Armstrong promises to <a target="_blank" href="https://www.newyorker.com/culture/the-new-yorker-interview/the-end-of-succession-is-near"> name a successor</a>.
      So I thought it would be fun to figure out the <b>score</b> and see if we can predict who is going to take the throne. 
     </p>
   </div>

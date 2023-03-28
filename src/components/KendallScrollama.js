@@ -59,7 +59,7 @@ const contentMap = {
       <div>
         <p>
         But as the show goes on we see him fail over and over again. 
-        His eagerness for the job leads to failed coups and proxy wars.  
+        His eagerness for the job leads to <b>failed coups and proxy wars</b>.  
         </p>
 
       </div>
