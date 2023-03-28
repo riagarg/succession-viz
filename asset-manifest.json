@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/succession-viz/static/css/main.513fa806.css",
-    "main.js": "/succession-viz/static/js/main.39585b3b.js",
+    "main.js": "/succession-viz/static/js/main.2a61a9b6.js",
     "static/js/787.29bba3e2.chunk.js": "/succession-viz/static/js/787.29bba3e2.chunk.js",
-    "static/media/Title_Card.png": "/succession-viz/static/media/Title_Card.44727071fe84636c1f47.png",
+    "static/media/Title_Card.png": "/succession-viz/static/media/Title_Card.9e40b33aefa91ca81000.png",
     "static/media/win-quote.png": "/succession-viz/static/media/win-quote.7dba2e1a7544e7d6bec3.png",
     "static/media/greg-so-it-is.gif": "/succession-viz/static/media/greg-so-it-is.cb31f5705984aeba8ba7.gif",
     "static/media/matsson.gif": "/succession-viz/static/media/matsson.9f4428978de2536e1af3.gif",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/succession-viz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/succession-viz/index.html",
     "main.513fa806.css.map": "/succession-viz/static/css/main.513fa806.css.map",
-    "main.39585b3b.js.map": "/succession-viz/static/js/main.39585b3b.js.map",
+    "main.2a61a9b6.js.map": "/succession-viz/static/js/main.2a61a9b6.js.map",
     "787.29bba3e2.chunk.js.map": "/succession-viz/static/js/787.29bba3e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.513fa806.css",
-    "static/js/main.39585b3b.js"
+    "static/js/main.2a61a9b6.js"
   ]
 }
